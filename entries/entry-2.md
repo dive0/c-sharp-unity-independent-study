@@ -98,5 +98,5 @@ public Vector2 mousePosition; //position of the mouse
 * **Have an idea of what to make.** By knowing what to make, I was able to have an idea of what I should learn. For example, I'm making a game and I need to know how to control my character. I would have to search up the syntax for controlling in Unity. Time was saved when having an end idea.
 * **Use Google.** The quickest way to learn something is by googling what you want to learn. There are many resources out there that gives you information on how to use something. For me, I need to know how to use scripting in Unity and there are many concepts to learn for C#. However, I was learning about creating command apps, not Unity. I was able to find references to Unity scripting and have a deeper understanding of how I can create my game through it.
 
-[Back](entry-1.md) | [Next](entry-2.md) <br><br>
+[Back](entry-1.md) | [Next](entry-3.md) <br><br>
 [Table of Contents](../README.md)
