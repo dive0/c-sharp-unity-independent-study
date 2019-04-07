@@ -36,6 +36,9 @@ type[,] arrayName = { {}, {} }; //two dimensional/multidimensional
 type[][] arrayName = new tyepe[][]; // jagged array - an array's element is an array
 ```
 
+Array in Unity
+![alt text](../images/array_in_unity.PNG)
+
 ### SortedList
 SortedList stores key-value pairs
 ```
