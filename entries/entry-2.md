@@ -4,10 +4,9 @@
 
 [Reference](https://docs.unity3d.com/ScriptReference/)
 
-This contains the scripting API that Unity provides. There's informtion on the classes, methods, properties and relevent information pertaining to it.
+This contains the scripting API that Unity provides. There's information on the classes, methods, properties and relevant information pertaining to them.
 
 ## Starter Code
-
 ```
 //Namespaces
 using UnityEngine;
@@ -28,7 +27,7 @@ public class (FileName) : MonoBehaviour{ //inherit from MonoBehaviour
 ## Code
 ### Array
 * The element of the array has to be the same data type.
-* Access array on unity by making the array public and changing the values directly in unity
+* Access array on unity by making the array public and changing the values directly in Unity
 ```
 type[] arrayName = {}; //one dimension
 
@@ -54,7 +53,7 @@ Console.WriteLine("key: {0}, value: {1}", sortedList.GetKey(0), sortedList.GetBy
 ```
 
 ### enum
-The keyword enum is used to declare an enumeration which contains enumerator list. A list of named integer constants would be declared.
+The keyword `enum` is used to declare an enumeration which contains enumerator list. A list of named integer constants would be declared.
 
 ## Moving An Object
 ### Transform.Translate
@@ -63,7 +62,7 @@ public void Translate(Vector3 translation, Space relativeTo = Space.Self); //mov
 ```
 
 ### Vector3
-Use pass 3D positions and directions
+Use to pass 3D positions and directions
 ```
 Vector3.back //move back (Vector3(0,0,-1)
 
@@ -93,8 +92,8 @@ public Vector2 mousePosition; //position of the mouse
 ```
 
 ## Takeaways
-* **Have an idea of what to make.** By knowing what to make, I was able to have an idea of what I should learn. For example, I'm making a game and I need to know how to control my character. I would have to search up the syntax for controling in Unity. Time was saved when having an end idea.
-* **Use Google.** The quickest way to learn something is by googling what you want to learn. There are many resource out there that gives you informations on how to use something. For me, I need to know how to use scripting in Unity and there are many concepts to learn for C#. However, I was learning about creating commandapps, not Unity. I was able to find references to Unity scripting. I was able to have a deeper understanding of how I can create my game through the reference.
+* **Have an idea of what to make.** By knowing what to make, I was able to have an idea of what I should learn. For example, I'm making a game and I need to know how to control my character. I would have to search up the syntax for controlling in Unity. Time was saved when having an end idea.
+* **Use Google.** The quickest way to learn something is by googling what you want to learn. There are many resources out there that gives you information on how to use something. For me, I need to know how to use scripting in Unity and there are many concepts to learn for C#. However, I was learning about creating command apps, not Unity. I was able to find references to Unity scripting and have a deeper understanding of how I can create my game through it.
 
-[Back](entry-1.md)|[Next](entry-2.md) <br><br>
+[Back](entry-1.md) | [Next](entry-2.md) <br><br>
 [Table of Contents](../README.md)
