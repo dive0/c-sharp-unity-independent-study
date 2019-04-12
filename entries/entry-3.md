@@ -1,8 +1,8 @@
 Entry 3: Creating Movements
 
-#Recap
+# Recap
 
-#Moving character
+# Moving character
 ```
 using System.Collections;
 using UnityEngine;
