@@ -31,8 +31,12 @@ public class Movement : MonoBehaviour
     }
 }
 ```
-<img scr="https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/movement.gif">
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/movement.mp4" type="video/mp4">
+</figure>
+    
 ## Moving the camera
 This part is the code that moves the camera. The camera will follow the character where ever it goes.
 ```
