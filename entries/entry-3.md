@@ -31,6 +31,8 @@ public class Movement : MonoBehaviour
     }
 }
 ```
+<figure class="video_container">
+<iframe src="https://giphy.com/embed/39xDRuuOJIUG04HYrC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/39xDRuuOJIUG04HYrC">via GIPHY</a></p></figure>
 
 ## Moving the camera
 This part is the code that moves the camera. The camera will follow the character where ever it goes.
