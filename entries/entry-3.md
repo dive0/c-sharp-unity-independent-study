@@ -5,16 +5,16 @@ In the previous entry, I talked about the codes that I may need to use in order 
 
 ## Useful syntax
 ### transform.eulerAngles
-Rotates as Euler Angles in degrees
+Rotate as Euler Angles in degrees
 
 ### StartCoroutine
-Completes a function before calling
+Complete a function before calling
 
 ### yield return
-Returns each element one at a time
+Return each element one at a time
 
 ### WaitForSeconds
-Suspends a coroutine for a certain amount of seconds in scaled time
+Suspend a coroutine for a certain amount of seconds in scaled time
 
 ## Moving character
 This part is the code that I need to move my character, controlled by  gravity.
