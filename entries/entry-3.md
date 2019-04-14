@@ -38,7 +38,7 @@ This part is the code that moves the camera. The camera will follow the characte
 ```
 
 ## NPC movement
-This is the code to move the object random like npcs in the game.
+This is the code to move the object random like NPCs in the game.
 ```
 ```
 
