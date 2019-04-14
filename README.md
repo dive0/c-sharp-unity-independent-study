@@ -4,7 +4,7 @@ For the last semester of my senior year, I chose to learn about C# and Unity for
 ## Table of contents
 + [Entry 1: Introduction](entries/entry-1.md)
 + [Entry 2: Getting Started With Unity](entries/entry-2.md)
-+ [Entry 3:](entries/entry-3.md)
++ [Entry 3: Creating Movements](entries/entry-3.md)
 + [Entry 4:](entries/entry-4.md)
 + [Entry 5:](entries/entry-5.md)
 + [Entry 6:](entries/entry-6.md)
