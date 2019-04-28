@@ -4,7 +4,7 @@
 In the previous entry, I talked about the codes I learned and used to make the characters (player and NPCs) move. In this entry, I will talk about the changes I made to the movements for the player and added controls using the mouse.
 
 ## Trial Code
-### Trying to rotate the camera player using the mouse
+### Trying to rotate the camera  and the player using the mouse
 ```
 using System.Collections;
 using System.Collections.Generic;
