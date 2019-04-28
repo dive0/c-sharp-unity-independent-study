@@ -1,7 +1,7 @@
 # Entry 4: MVP
 
 ## Recap
-In the previous entry, I talked about the codes I learned and used to make the characters (player and npcs) move. In this entry, I will talk about the changes I made to the movements for the player and added controls using the mouse.
+In the previous entry, I talked about the codes I learned and used to make the characters (player and NPCs) move. In this entry, I will talk about the changes I made to the movements for the player and added controls using the mouse.
 
 ## Trial Code
 ### Trying to rotate the camera player using the mouse
@@ -71,7 +71,7 @@ These are used to lock and unlock the cursor in the center of the screen/game
 Shows/hides the cursor
 
 ### AddForce and ForceMode.Impulse
-These are used to add force to the direction of the vector and rigidbody
+These are used to add force to the direction of the vector and rigid body
 
 ### Input.GetAxis
 This will return the virtual axis of my mouse
@@ -103,7 +103,7 @@ public class CharacterControl : MonoBehaviour
 
     void OnCollisionStay()
     {
-        isGrounded = true; //when touching the ground, player is on the ground
+        isGrounded = true; //when touching the ground, the player is on the ground
     }
 
     void Update()
@@ -123,7 +123,7 @@ public class CharacterControl : MonoBehaviour
             isGrounded = false;
         }
 
-        //make cursor disappear and appear. However, when making the cursor disappear again, have to click on mouse to make it disappear
+        //make the cursor disappear and appear. However, when making the cursor disappear again, have to click on the mouse to make it disappear
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (ShowCursor == 0)
