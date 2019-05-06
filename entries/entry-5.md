@@ -28,7 +28,7 @@ Edit the keys for each frame of the animation
 ### Curve View Mode
 Edit the property that can be animated at different frame
 
-![alt text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/Curves.png)
+![alt text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/curve.png)
 
 ## Clips To Play
 This window will show the animations that will be played when "run" is clicked. I will make this so that when the controls for the movements are clicked, the animation for moving the character will play. When nothing is clicked, the character will stay still.
@@ -42,6 +42,7 @@ The model needs to be in a T-pose in order for Unity to accurately see the model
 
 ## Takeaways
 * **Know What To Research!!!** It is important to research the components that can help you understand what you need to do. For me, that is the animation view. I know for a fact that I won't be able to create animation on Unity without it. By knowing what is necessary, you can use more of your time understanding how to use it. This way, you may not have to understand something else that you may never need to use.
+* **Learning is a never-ending process** It is not a bad idea to learn something new after you completing something. I finished with the controls of my characters and I decided to also learn about animation since the characters need to look like they are moving. There is always something deeper to learn after you learned one thing.
 
 [Back](entry-4.md) | [Next](entry-6.md) <br><br>
 [Table of Contents](../README.md)
