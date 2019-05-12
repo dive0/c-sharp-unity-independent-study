@@ -23,5 +23,35 @@ These are the models that will be walking/flying around the map. The animations 
 
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/move.gif)
 
+## Make The Animation Slower
+The animation for the lancer was too fast, so I need to make it slow down.
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Slower : MonoBehaviour
+{
+
+    public Animator anim;
+
+    void Start()
+    {
+        anim = gameObject.GetComponent<Animator>(); // get the animator gameObject
+    }
+
+    void Update()
+    {
+        anim.speed = 0.5f; // slow the speed the animation is played
+    }
+}
+```
+
+## Putting Music
+My partner created a music for the game and I need to know how to play the music when the game start. To play the music, there should be an Audio `gameObject` that allows the music to be played. Then, the `AudioClip` need to be set as the music file.
+
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/move.gif)
+
 [Back](entry-5.md) | [Next](entry-7.md) <br><br>
 [Table of Contents](../README.md)
