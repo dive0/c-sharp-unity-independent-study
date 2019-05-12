@@ -12,7 +12,16 @@ The model that my partner sent me can't be animated since the limbs will not mov
 ## NPCs
 These are the models that will be walking/flying around the map. The animations came with the models, so I used the one provided.
 
-![text]()
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/troll.gif)
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/lancer.gif)
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/Demon.gif)
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/boar.gif)
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/dragon.gif)
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/angel.gif)
+
+## Moving Around The Map
+
+![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/move.gif)
 
 [Back](entry-5.md) | [Next](entry-7.md) <br><br>
 [Table of Contents](../README.md)
