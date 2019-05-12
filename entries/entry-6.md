@@ -1,10 +1,12 @@
 # Entry 6: Animation And Adding NPCs
 
 ## Recap
-In the previous entry, I talked about what I learned about creating animations for my character. In this entry, I will talk about the animations I creating and adding NPCs to the game by downloading models from the asset store.
+In the previous entry, I talked about what I learned about creating animations for my character. In this entry, I will talk about the animations I created and adding NPCs to the game by downloading models from the asset store.
 
 ## Character Animation
-The model that my partner sent me can't be animated since the limbs will not move. I downloaded a robot model for me to test how to animate. I animated the robot's right leg incorrectly, so it looks weird. When I get the actual character model from my partner, I will be able to have a clear idea of how I want to animate it.
+The model that my partner sent me can't be animated since the limbs will not move. I downloaded a robot model for me to test how to animate. I animated the robot's right leg incorrectly, so it looks weird. 
+
+When I get the actual character model from my partner, I will be able to have a clear idea of how I want to animate it.
 
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/character_animation.gif)
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/Animate_character.png)
@@ -49,11 +51,11 @@ public class Slower : MonoBehaviour
 ```
 
 ## Putting Music
-My partner created music for the game and I need to know how to play the music when the game start. To play the music, there should be an Audio `gameObject` that allows the music to be played. Then, the `AudioClip` need to be set as the music file.
+My partner created music for the game and I need to know how to play the music when the game start. To play the music, there should be an Audio `gameObject` that allows the music to be played. Then, the `AudioClip` need to be set to the music file.
 
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/audio_source.png)
 
-## Links To Models
+## Models Credits
 * [Robot](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
 * [Lancer](https://assetstore.unity.com/packages/3d/characters/monster-lowploygon-mobile-lancer-140601)
 * [Troll](https://assetstore.unity.com/packages/3d/characters/humanoids/troll-giant-122206)
@@ -63,7 +65,7 @@ My partner created music for the game and I need to know how to play the music w
 
 ## Takeaways
 * **Give Credits** If you are using someone else's creation, remember to give them credit.
-* **Use Samples** If you are working in partnership, don't just wait for your partner to get their part done so that you can continue to the next step. You can use a sample that helps you familiar with what you will be doing next before getting your partner's part of the work.
+* **Use Samples** If you are working in partnership, don't just wait for your partner to get their part done so that you can continue to the next step. You can use a sample that helps you become familiar with what you will be doing next before getting your partner's part of the project.
 
 [Back](entry-5.md) | [Next](entry-7.md) <br><br>
 [Table of Contents](../README.md)
