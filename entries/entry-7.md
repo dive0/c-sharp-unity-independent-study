@@ -38,6 +38,7 @@ You may see small black spots on the mountain. Those are the NPCs scattered thro
 ## Post Processing Stack
 I downloaded the Post Processing Stack from the asset store in order to change the graphics of the game.
 These are the changes I made to the graphics:
+
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/graphics1.png)
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/graphics2.png)
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/graphics3.png)
