@@ -1,10 +1,10 @@
 # Entry 8: Adding UI And Texturing The Mountain
 
 ## Recap
-In the previous entry, I talked about the animation I created for the model my partner created and the demo of the game. In this entry, I will talk about the UI my partner made adding in the texture that I wasn't able to before.
+In the previous entry, I talked about the animation I created for the model my partner created and the demo of the game. In this entry, I will talk about the UI my partner made and adding in the texture that I wasn't able to before.
 
 ## Adding UI
-My partner created 2 scenes that contains the UI for the start menu and the pause menu. 
+My partner created 2 scenes that contain the UI for the start menu and the pause menu. 
 
 ### Start Menu
 I would make the game start when the Start button is clicked.
@@ -83,16 +83,16 @@ Load the Main scene (Start Menu) <br><br>
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/Quit_Button.png)
 
 ## Adding Texture
-At first I wasn't able to find out how to add in the texture for the mountain becuase there are multiple texture on it. This week, I found out that I can have the texture as a UV map, which has all the texture in one image file. I told my partner to get me the UV map using Blender and I imported the UV map onto the model.
+At first, I wasn't able to find out how to add in the texture for the mountain because there are multiple textures on it. This week, I found out that I can have the texture as a UV map, which has all the texture in one image file. I told my partner to get me the UV map using Blender and I imported the UV map onto the model.
  
-To put the UV map on the model, the material's shader have to be in diffuse.
+To put the UV map on the model, the material's shader has to be in diffuse.
 
 ![text](https://github.com/dive0/c-sharp-unity-independent-study/blob/master/images/Material.png)
 
-I have to make sure that the material with the UV map is a component of the mountain in order for the texture to appear. Even though the texture did appear, the resolution is just really low. I tried increasing the resolution and the image size, nothing changes. I decide to just leave it.
+I have to make sure that the material with the UV map is a component of the mountain in order for the texture to appear. Even though the texture did appear, the resolution is just really low. I tried increasing the resolution and the image size, but nothing changes. I decide to just leave it.
 
 ## Takeaways
-* **There's always a way to fix a problem** At first, I though there's no way to put the texures on the mountain since only one material works on the model. However, by doing more research, I found out about UV map and was able to put the texture on the mountain. Fixing a problem can be hard, but by trying to research more on the problem, a solution may appear. As long as there's a problem, there's a solution.
+* **There's always a way to fix a problem** At first, I thought there's no way to put the textures on the mountain since only one material can be used on the model. However, by doing more research, I found out about the UV map and was able to put the texture on the mountain. Fixing a problem can be hard, but by trying to research more on the problem, a solution may appear. As long as there's a problem, there's a solution.
 
 [Back](entry-7.md) | [Next](entry-9.md) <br><br>
 [Table of Contents](../README.md)
