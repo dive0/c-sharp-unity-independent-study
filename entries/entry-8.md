@@ -94,5 +94,5 @@ I have to make sure that the material with the UV map is a component of the moun
 ## Takeaways
 * **There's always a way to fix a problem** At first, I thought there's no way to put the textures on the mountain since only one material can be used on the model. However, by doing more research, I found out about the UV map and was able to put the texture on the mountain. Fixing a problem can be hard, but by trying to research more on the problem, a solution may appear. As long as there's a problem, there's a solution.
 
-[Back](entry-7.md) | [Next](entry-9.md) <br><br>
+[Back](entry-7.md) <br><br>
 [Table of Contents](../README.md)
